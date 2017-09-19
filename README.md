@@ -1,5 +1,5 @@
 # raspberry-hifi
-Airplay receiver + hifi DAC for raspberry pi
+Software and customizations for building an Airplay receiver + hifi DAC for raspberry pi
 
 Assumes raspberry pi 3 with either:
 
